@@ -32,9 +32,9 @@ User Signup Page-
 
 
 ## Demo user Credentials
-- website- https://task-management-app-liard.vercel.app/
-- username- demo1234
-- password- 12345678
+
+- username- abhayakg
+- password- Abhay123
 
 ## Features
 
@@ -174,5 +174,5 @@ Inside backend folder:
 
 - This project
 
-  - Github Repo: https://github.com/ratnasree-ghosh/task-management-app
+  - Github Repo: https://github.com/mrAbhay16/task-management
 
