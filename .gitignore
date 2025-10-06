@@ -1,0 +1,106 @@
+# =========================
+# Node.js / Express backend
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs
+*.log
+logs/*.log
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Runtime data
+lib-cov
+coverage
+.cache
+.nyc_output
+
+# Temporary files
+.tmp/
+temp/
+*.tmp
+
+# Build outputs
+dist/
+build/
+out/
+.next/
+.vercel/
+.serverless/
+public/uploads/
+
+# =========================
+# React frontend
+# =========================
+# dependencies
+frontend/node_modules/
+
+# build output
+frontend/build/
+frontend/.parcel-cache/
+frontend/.next/
+frontend/.nuxt/
+frontend/out/
+frontend/dist/
+
+# production
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# misc
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*.orig
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific
+ehthumbs.db
+Icon?
+desktop.ini
+
+# =========================
+# Optional tools
+# =========================
+# VSCode settings
+.history/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# eslint / prettier cache
+.eslintcache
+.prettierignore
+
+# Mac / Linux / Windows system files
+*.DS_Store
+*.AppleDouble
+.LSOverride
+.Trashes
+._*
+.Spotlight-V100
