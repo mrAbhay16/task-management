@@ -1,9 +1,9 @@
 import axios from 'axios'
 import queryString from 'query-string'
 
-const baseUrl = 'http://localhost:5000/api/v1';
+// const baseUrl = 'http://localhost:5000/api/v1';
 
-// const baseUrl = 'https://task-backend-f7ys.onrender.com/api/v1';
+const baseUrl = 'https://task-management-9mlb.onrender.com/api/v1';
 
 
 
