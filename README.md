@@ -176,25 +176,3 @@ Inside backend folder:
 
   - Github Repo: https://github.com/ratnasree-ghosh/task-management-app
 
-- Official Docs
-
-  - Reactjs docs: https://reactjs.org/docs/getting-started.html
-  - npmjs docs: https://classic.yarnpkg.com/lang/en/docs/
-  - Mongodb docs: https://docs.mongodb.com/manual/introduction/
-  - Github docs: https://docs.github.com/en/get-started/quickstart/hello-world
-
-
-- Download links
-
-  - Nodejs download: https://nodejs.org/
-  - VS Code download: https://code.visualstudio.com/
-
-- Cheatsheets
-  - Git cheatsheet: https://education.github.com/git-cheat-sheet-education.pdf
-  - VS Code keyboard shortcuts: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
-  - CSS Selectors Cheatsheet: https://frontend30.com/css-selectors-cheatsheet/
-
-## Contact
-
-- Email: ghoshratnasree817@gmail.com
-- Linkedin: https://www.linkedin.com/in/ratnasree-ghosh-302460216/
